@@ -1,0 +1,27 @@
+{
+	"name": "@tattdogg/vue-highcharts",
+	"description": "Highcharts Vue wrapper",
+	"version": "0.0.1",
+	"main": "src/index.js",
+	"keywords": [
+		"highcharts",
+		"chart",
+		"vue",
+		"wrapper",
+		"component"
+	],
+	"license": "MIT",
+	"author": "Boris Maslennikov <tattdogg@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/b-maslennikov/vue-highcharts.git"
+	},
+	"homepage": "https://github.com/b-maslennikov/vue-highcharts",
+	"bugs": {
+		"url": "https://github.com/b-maslennikov/vue-highcharts/issues"
+	},
+	"peerDependencies": {
+		"highcharts": "^5.0.0",
+		"vue": "^2.0.0"
+	}
+}
