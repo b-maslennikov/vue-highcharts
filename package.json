@@ -1,8 +1,9 @@
 {
 	"name": "@tattdogg/vue-highcharts",
 	"description": "Highcharts Vue wrapper",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "src/index.js",
+	"typings": "types/vue-highcharts.d.ts",
 	"keywords": [
 		"highcharts",
 		"chart",
@@ -21,7 +22,7 @@
 		"url": "https://github.com/b-maslennikov/vue-highcharts/issues"
 	},
 	"peerDependencies": {
-		"highcharts": "^5.0.0",
-		"vue": "^2.0.0"
+		"highcharts": ">=5.0.0",
+		"vue": ">=1.0.0"
 	}
 }
