@@ -4,6 +4,11 @@ It's an extended version of the official highcharts wrapper: https://github.com/
 
 It allows you to use highchart props and methods from your code.
 
+# THIS PACKAGE IS DEPRECATED
+The offcial wrapper https://github.com/highcharts/highcharts-vue now has support of using Highcharts instance from the code. Please use it instead.
+```javascript
+this.$refs.chart.chart.showLoading('Loading...'); // or any other highcharts method or property
+```
 
 # Installation
 Using npm
